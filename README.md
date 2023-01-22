@@ -2,4 +2,4 @@
 
 
 
-this repository works only as a pokémon sprite container
+This repository works only as a pokémon sprite container.
